@@ -1,7 +1,7 @@
 # Faraz 
 - `pip install lolcat`
 
-  - `rm -rf SSM`
+  - `rm -rf Faraz`
 
   - `git clone https://github.com/KINGFATHER786/Faraz.git`
 
