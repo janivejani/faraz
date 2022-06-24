@@ -1,5 +1,5 @@
 # Faraz 
-- `pip install lolcat`
+- `pkg install 
 
   - `rm -rf Faraz`
 
