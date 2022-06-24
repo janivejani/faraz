@@ -1,5 +1,5 @@
 # Faraz 
-- `pkg install 
+
 
   - `rm -rf Faraz`
 
